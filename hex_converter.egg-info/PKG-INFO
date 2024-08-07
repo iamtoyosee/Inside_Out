@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: hex-converter
+Version: 0.1
+Summary: A command-line tool for converting between hex, ASCII, decimal, and binary.
+Home-page: https://github.com/iamtoyosee/Inside_Out
+Author: BlackTechieGirl
+Author-email: blacktechiegirl@gmail.com
+Description-Content-Type: text/markdown
+
+# Inside_Out
+Advanced Encoder and Decoder Tool
