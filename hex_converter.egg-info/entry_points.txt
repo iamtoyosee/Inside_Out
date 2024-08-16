@@ -1,2 +1,0 @@
-[console_scripts]
-hex-converter = hex_converter.cli:main
